@@ -220,9 +220,11 @@ body {
 }
 
 #redo {
-    padding-left: 10px;
+    padding-left: 20px;
     font-size: 15px;
     font-weight: 500;
+    padding-top: 0.8em;
+    padding-right: 4rem;
 }
 
 .app-scrollhack>* {
